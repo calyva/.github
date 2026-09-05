@@ -14,7 +14,7 @@ Software · Infra · IA · Games · Open Source · Experimentos
 
 ## De LabNegro à Calyva
 
-Nossa história começou em 2019 com o LabNegro, uma comunidade
+Nossa história começou em 2018 com o LabNegro, uma comunidade
 brasileira voltada para programação e tecnologia.
 
 Em 2026, o laboratório abriu novamente sob uma nova identidade:
